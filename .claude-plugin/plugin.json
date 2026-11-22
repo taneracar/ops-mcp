@@ -1,0 +1,10 @@
+{
+  "name": "ops-mcp",
+  "version": "0.1.0",
+  "description": "Governed operations-data MCP server (scoped tools, field-level redaction, audit log) with skills for vendor cost review and headcount snapshots. Synthetic data.",
+  "author": { "name": "Taner Acar" },
+  "homepage": "https://github.com/taneracar/ops-mcp",
+  "repository": "https://github.com/taneracar/ops-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "governance", "rbac", "reconciliation", "skills"]
+}
