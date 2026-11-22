@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ops": {
+      "command": "npm",
+      "args": ["--prefix", "${CLAUDE_PLUGIN_ROOT}", "run", "--silent", "start:stdio"],
+      "env": {
+        "OPS_MCP_SCOPES": "ops:read ops:finance"
+      }
+    }
+  }
+}
